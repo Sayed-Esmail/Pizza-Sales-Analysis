@@ -31,8 +31,8 @@ This project analyzes pizza sales data to uncover actionable business insights. 
 ---
 
 ## 📂 File Structure  
-- **Dashboard Image**: `Pizza Sales.png` - A snapshot of the interactive dashboard.  
-- **SQL Queries**: `PIZZA SALES SQL QUERIES.docx` - Contains the SQL queries used for the analysis.  
+- **Dashboard Image**: `Dashboard.png` - A snapshot of the interactive dashboard.  
+- **SQL Queries**: `SQL Queries.pdf` - Contains the SQL queries used for the analysis.  
 
 ---
 

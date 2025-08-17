@@ -25,7 +25,7 @@ This project analyzes pizza sales data to uncover actionable business insights. 
 
 ## 🚀 Technologies Used  
 - **SQL**: For data extraction and querying.  
-- **Data Visualization Tool**: Power BI (or Tableau, Excel) for creating the dashboard.  
+- **Data Visualization Tool**: Excel for creating the dashboard.  
 - **Dataset**: Pizza sales data (fictional/business dataset).  
 
 ---
